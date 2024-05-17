@@ -1,35 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Resumo Inteligente: Seu Resumidor de Documentos com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O Resumo Inteligente é uma ferramenta que usa inteligência artificial para resumir documentos de forma rápida e eficiente. Ele destaca os pontos principais e elimina informações redundantes, sendo útil para estudantes e profissionais que precisam sintetizar textos extensos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Modelos de Linguagem Pré-Treinados**
+  - **ChatGPT**: Utilizado para gerar texto coerente e relevante com base em uma entrada.
+  
+- **Algoritmos de Sumarização Automática**
+  - **TextRank e BERT**: Utilizados para identificar e resumir os pontos-chave de um texto.
+  
+- **Bibliotecas de Processamento de Linguagem Natural**
+  - **NLTK (Natural Language Toolkit) e spaCy**: Utilizados como funcionalidades para processamento de texto, como tokenização, análise sintática e sumarização.
+  
+- **Portman Front-end**
+  - **Criação de Interfaces de Usuário (UI)**: Criação de interfaces de usuário rápidas e simples, utilizando componentes pré-criados e personalizáveis.
+  
+- **Postman Back-end**
+  - **Facilitação de Endpoints de API**: Facilita a criação e manutenção de endpoints de API, fornecendo uma estrutura organizada e reutilizável para definir rotas, modelos de dados e lógica de negócios.
+  
+- **LanguageTool (LT)**
+  - **Correção Ortográfica**: Utilizado para correção ortográfica, identificando e corrigindo erros ortográficos em textos, garantindo a precisão e a correção gramatical do conteúdo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para desenvolver a ferramenta de resumo de texto, utilizei o "ChatGPT" para orientação inicial e refinamento das ideias. Em seguida, para lidar com diferentes formatos de documentos e a sumarização em si, escolhi bibliotecas como PyMuPDF e python-docx, junto com o modelo BART via Hugging Face Transformers. Para suporte a múltiplos idiomas, integrei a API do Google Translate. A interface web foi implementada com Flask. Para testar as APIs, utilizei o Postman. A montagem final foi feita no LibreOffice, por ser uma ferramenta open-source.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
@@ -37,15 +32,3 @@ Apresente os resultados do seu projeto
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
