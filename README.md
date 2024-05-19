@@ -31,5 +31,5 @@ A ferramenta ainda está funcionando muito bem. É ótima para traduzir sites em
 
 [LINK PARA A FERRAMENTA DE TEXTO AQUI](https://github.com/P1p101/Ferramenta-para-texto/tree/main)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar algo "natty" com IA foi bastante desafiador. Trabalhar com IA exige achar o equilíbrio entre tecnologia avançada e facilidade de uso. Houve muita experimentação e ajustes para deixar a ferramenta eficiente e fácil de usar. A integração das imagens foi fundamental para enriquecer a experiência. No final, ver a ferramenta funcionando perfeitamente e com o propósito de ajudar as pessoas me traz grande satisfação.
