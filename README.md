@@ -1,4 +1,4 @@
-# Resumo Inteligente: Seu Resumidor de Documentos com IA
+# Resumo Inteligente: Resumidor de Texto com IA
 
 ## 📒 Descrição
 O Resumo Inteligente é uma ferramenta que usa inteligência artificial para resumir documentos de forma rápida e eficiente. Ele destaca os pontos principais e elimina informações redundantes, sendo útil para estudantes e profissionais que precisam sintetizar textos extensos.
